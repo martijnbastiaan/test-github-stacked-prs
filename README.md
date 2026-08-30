@@ -1,2 +1,2 @@
 # test-github-stacked-prs
-2
+3
